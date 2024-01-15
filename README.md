@@ -1,0 +1,2 @@
+- Hi, I’m @c1ph3rC4t it's pronounced "cipher cat" but just call me Cipher.
+- Pronouns: She/her
