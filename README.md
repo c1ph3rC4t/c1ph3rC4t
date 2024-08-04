@@ -1,10 +1,9 @@
 Hewo I'm c1ph3rC4t! :3
 ----------------------
-A lesbian trans girl programmer.<br>
-My primary tools are Python and JS/TS, along with HTML and CSS, and I occasionally work with React.<br>
+A lesbian trans girl who primarily programs in Python or JS/TS, along with HTML and CSS, occasionally with React.<br>
 Cats are my fav. animal, my fav. field of programming is cybersecurity.<br>
-I’m the sole developer of the "UwU IP grabber" API, a custom IP logger.<br>
-As an independent programmer with programming as a hobby, it’s hard to find enough time to program everything I want to.<br>
+Im the sole developer of the "UwU IP grabber" API, a custom IP logger.<br>
+As an independent programmer with programming as a hobby, its hard to find enough time to program everything I want to.<br>
 Check out my website: [c1ph3rc4t.github.io](c1ph3rc4t.github.io)<br>
 
 
