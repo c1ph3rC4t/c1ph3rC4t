@@ -1,4 +1,5 @@
 # Hello I'm c1ph3rC4t!
+You may also know me as Natasha but you can refer to me as any of the following: c1ph3rC4t, Cipher Cat, Cipher, Natasha, Tasha or Nat.<br>
 A lesbian trans girl who does programming.<br>
 I mainly use Python, NodeJS and JS with HTML and CSS.<br>
 I know Rust, TS and React too.<br>
